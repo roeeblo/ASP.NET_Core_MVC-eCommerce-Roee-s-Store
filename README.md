@@ -10,6 +10,7 @@ An ongoing development of a full-featured e-commerce solution with user manageme
 - SQL Server database
 - ASP.NET Core Identity for authentication
 - Responsive UI with client-side validation
+- HTML and CSS for Front-end
 
 ### User Management
 - Registration and authentication system
