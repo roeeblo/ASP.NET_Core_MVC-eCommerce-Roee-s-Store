@@ -1,21 +1,24 @@
-# 🚧 Project in Progress
-This is an ongoing ASP.NET Core MVC e-commerce web application with user authentication, shopping cart functionality, and admin management features.
+# 🚧 E-Commerce Platform - ASP.NET Core MVC
 
-# Key Features
-## User Management
-Registration, login, and password reset
-Role-based authorization (Admin/Customer/Seller)
-User profile editing and account deletion
+An ongoing development of a full-featured e-commerce solution with user management, product catalog, and order processing.
 
-## Product & Order System
-CRUD operations for products
-Shopping cart with cookie-based persistence
-Order creation with status tracking (pending/approved/rejected)
+## Core Features
 
-## Technical Implementation
-ASP.NET Core MVC architecture
-Entity Framework Core for database operations
-SQL Server data storage
-Identity Framework for authentication
-Responsive views with model validation
-SQL Server
+### User Management
+- Registration and authentication system
+- Role-based authorization (Admin/Customer/Seller)
+- Password recovery and reset functionality
+- User profile management
+
+### Product & Order System
+- Complete product CRUD operations
+- Persistent shopping cart using cookies
+- Order processing with status tracking
+- Inventory management
+
+### Technical Stack
+- ASP.NET Core MVC architecture
+- Entity Framework Core for data access
+- SQL Server database
+- ASP.NET Core Identity for authentication
+- Responsive UI with client-side validation
