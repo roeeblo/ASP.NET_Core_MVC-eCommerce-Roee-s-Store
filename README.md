@@ -1,4 +1,4 @@
-# 🚧 E-Commerce Platform - ASP.NET Core MVC
+# E-Commerce Roee's Tech Store - ASP.NET Core MVC
 
 An ongoing development of a full-featured e-commerce solution with user management, product catalog, and order processing.
 
